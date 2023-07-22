@@ -9,51 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Junyu Luo | Curriculum Vitae
+(Pennsylvania, State College) USA  
+Email: luoshuiti@outlook.com
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education & Awards
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Academic Qualifications
+- Pennsylvania State University, Ph.D., Information Sciences and Technology, GPA: 3.91/4.00 (2020.08–Now)
+- Sichuan University, Bachelor, Computer Science, GPA: 3.86/4.00, Major GPA: 3.924/4.00 (2020.06)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Honors & Awards
+- The Award of Excellence, MSRA Internship Program (2020)
+- National Scholarship (THREE TIMES) (2015-2018)
+- The First Prize Scholarship of Sichuan University (THREE TIMES) (2015-2018)
+- Model Student of Academic Records, Sichuan University (2017)
+- The first prize in Sichuan University Mathematics Competition (2016)
+- The second prize in Sichuan University ACM Programming Contest (2016)
+
+
+### Tutorials
+- Fenglong Ma, Muchao Ye, Junyu Luo, Cao Xiao, and Jimeng Sun. Advances in Mining Heterogeneous Healthcare Data. Conference Tutorial at the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021.
+
+
+## Research Experience
+- Research Assistant on Machine Learning for Healthcare, Dr. Fenglong Ma, PSU IST, Pennsylvanian, USA (Feb 2020–Now)
+- Research Intern on Clinical Data, Dr. Cheng Qian, IQVIA, USA (May 2022–Dec 2022)
+- Research Intern on Knowledge Computing, Dr. Jinpeng Wang, Microsoft Research Lab - Asia (MSRA), Beijing, China (Mar 2019–Jan 2020)
+- Research Intern on Medical Images, Dr. William Hsu, University of California(UCLA), Los Angeles, USA (Jul 2018–Sep 2018)
+- Research Intern on Natural Language Processing, Dr. Min Yang, Shenzhen Institutes of Advanced Technology(SIAT), Chinese Academy of Sciences, Shenzhen, China (Sep 2017–Jul 2018)
+- Research Intern on Deep Learning, Dr. Jianchen Lv, MI LAB Sichuan University(SCU), Chengdu, China (Sep 2016–Jul 2017)
+
+## Additional Skills
+- Experience in dealing with different kinds of data (Image, Text, Video, Web, Audio, CT)
+- Experience in transformers, diffusion, GAN, graph neural network, information retrieval frameworks, and object detection frameworks
+- Experience in building web pages and mobile applications
+- Master in Python (PyTorch, TensorFlow, Keras) and familiar with C, C++, Java, JavaScript
