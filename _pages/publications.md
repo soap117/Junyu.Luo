@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 1. Luo, J., Wang, J., & Lin, C.-Y. (2021). Hybrid cascade point search network for high precision bar chart component detection. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 6688-6695). IEEE.
 
 2. Ye, M., Luo, J., Xiao, C., & Ma, F. (2020). Lsan: Modeling long-term dependencies and short-term correlations with hierarchical attention for risk prediction. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (pp. 1753-1762).
