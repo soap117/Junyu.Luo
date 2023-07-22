@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Junyu Luo"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : 
   location         : "US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pmLGdM0AAAAJ&hl=zh-CN"
   email            : "luoshuiti@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
