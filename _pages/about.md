@@ -10,6 +10,14 @@ redirect_from:
 
 I am currently a third-year Ph.D. student at Penn State University and intent to graduate around early 2025. My research experiences and interests lie in the field of health data mining and general deep learning, specifically utilizing natural language processing (NLP) and time series analysis to extract meaningful insights from large and complex data sets. My current research focuses on utilizing these techniques to improve the management and understanding of health data. My past projects have included medical text simplification, clinical trial report retrieval, adverse event prediction, automatic ICD coding, chart object detection and recognition, and cross-modality retrieval. These projects involved the development of innovative algorithms and methods to extract relevant information from large and complex data sets and give me broad experience in handling different modality data.
 
-For more info
+Current Research Interests
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. Clinical Text Processing, Understanding
+2. Clinical Trial Protocol Mining
+3. Multimodality Helath Data Mining
+4. Natural Language Processing
+
+Past Research Experiences
+------
+1. Medical Images
+2. Automatic Chart Design and Recognition
