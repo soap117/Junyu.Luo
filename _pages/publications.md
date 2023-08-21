@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=pmLGdM0AAAAJ&hl=zh-CN}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pmLGdM0AAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
 
 1. Luo, J., Wang, J., & Lin, C.-Y. (2021). Hybrid cascade point search network for high precision bar chart component detection. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 6688-6695). IEEE.
 
