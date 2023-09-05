@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Junyu Luo | Curriculum Vitae
+<li><a href="{{ base_path }}/files/CV.pdf" class="button">Latest PDF format</a></li>
 (Pennsylvania, State College) USA  
 Email: luoshuiti@outlook.com
 
